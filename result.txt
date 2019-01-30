@@ -1,0 +1,7 @@
+bighorn.jpg -> bighorn (59.1786682606)
+crossword.png -> crossword_puzzle (100.0)
+harvester.jpeg -> harvester (55.2474498749)
+homemade-french-bread-2.jpg -> French_loaf (97.976064682)
+hotpot.jpg -> hot_pot (58.2294762135)
+jinkriska.jpg -> jinrikisha (90.3120160103)
+osciloscope.jpg -> oscilloscope (99.981123209)
