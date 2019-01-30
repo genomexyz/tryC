@@ -45,9 +45,3 @@ out = open(outfile, 'w')
 for i in xrange(len(predlabel)):
 	res = predlabel[i][0]
 	out.write(allimgname[i]+" -> "+res[1]+" ("+str(res[2]*100)+")\n")
-
-#get the highest prob
-#predlabel = predlabel[0][0]
-
-#result
-#print(predlabel[1]+" prob-> ("+str(predlabel[2]*100)+")")
